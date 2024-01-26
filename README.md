@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KMuthusamyms
 - 👀 I’m interested in Web Technologies and Cloud
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust & Java Spring
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can send the mail to [k.muthusamyms@gmail.com](mailto:k.muthusamyms@gmail.com)
 
